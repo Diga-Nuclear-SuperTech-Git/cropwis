@@ -1,0 +1,6 @@
+{
+  "name": "CROPWIS",
+  "description": "AI-powered smart agriculture advisor with crop disease detection, live farming weather warnings, Indian agriculture news, and personalized multi-factor crop recommendations.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
